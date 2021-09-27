@@ -8,6 +8,7 @@
 ![](https://img.shields.io/badge/-next.js-444?style=for-the-badge&logo=next-dot-js)
 ![](https://img.shields.io/badge/-styled%20components-444?style=for-the-badge&logo=styled-components)
 ![](https://img.shields.io/badge/-graphql-444?style=for-the-badge&logo=graphql)
+![](https://img.shields.io/badge/-cypress-444?style=for-the-badge&logo=cypress)
 
 ### My Stats
 
